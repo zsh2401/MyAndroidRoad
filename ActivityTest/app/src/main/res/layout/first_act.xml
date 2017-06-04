@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/button_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Test Button 1"
+        />
+    <Button
+        android:id="@+id/button_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="启动dialog"/>
+    <Button
+        android:id="@+id/button_create_firstactivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="跳转到FirstActivity"/>
+</LinearLayout>

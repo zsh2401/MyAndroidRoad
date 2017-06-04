@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">2B博客</string>
+    <string name="url">http://www.zsh2401.top</string>
+    <string name="about">关于</string>
+    <string name="about_message">\n\n\n这是一个简单的使用WebView来进行网页访问的APP..</string>
+    <string name="about_message_2">感谢您下载并使用这个软件,TNANKS!</string>
+    <string name="app_title">即刻未来博客</string>
+    <string name="back">返回</string>
+    <string name="loading_title">正在加载...</string>
+    <string name="loading_message_0">服务器在外网..所以会比较慢....</string>
+    <string name="about_message_3">Copyright © 2017 zsh2401. All rights reserved.</string>
+    <string name="doyouknow">你知道吗</string>
+    <string name="loading_message_1">不要问我为什么</string>
+    <string name="loading_message_2">Linux系统是用C语言写的哦....</string>
+    <string name="loading_message_3">不要伤心哦</string>
+    <string name="loading_message_4">如果加载的实在太慢,喝咖啡吧,推荐喝JAVA咖啡</string>
+
+</resources>

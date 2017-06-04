@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">F5通讯器</string>
+    <string name="ljy">刘茎云</string>
+    <string name="zsh">张顺泓</string>
+    <string name="yh">杨浩</string>
+    <string name="my">马伊</string>
+    <string name="hxy">何兴云</string>
+    <string name="zuoji">座机</string>
+    <string name="phone">手机</string>
+    <string name="mi4">米4</string>
+    <string name="rm">红米note</string>
+    <string name="about">关于</string>
+    <string name="exit">退出</string>
+    <string name="about_message">啊哈...虽然这是一个破烂的软件....但是....感谢您使用了它!并且还看到了这里!
+        \nAlonet小组荣誉出品!
+        \n你好!安卓!我来了!</string>
+    <string name="about_title">Thanks!</string>
+    <string name="back">返回</string>
+</resources>

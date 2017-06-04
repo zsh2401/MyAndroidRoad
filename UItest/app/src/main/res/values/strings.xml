@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UItest</string>
+    <string name="button_change_pic">改变图片</string>
+    <string name="button_progress_0">显示/关闭菊花</string>
+    <string name="button_progress_1">增加进度条</string>
+    <string name="button_gotoRelativeLayout">去到RelativeLayout Activity</string>
+    <string name="button_gotoFrameLayout">去到FrameLayout Activity</string>
+    <string name="frame_layout_activity">这里是FrameLayoutActivity!</string>
+    <string name="button_gotoPercentLayout">去到PercentLayout Activity</string>
+
+</resources>
